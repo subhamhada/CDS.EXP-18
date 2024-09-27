@@ -184,4 +184,7 @@ int main() {
 
 ### Outputs :
 ### 1.
+![Screenshot 2024-09-27 120454](https://github.com/user-attachments/assets/ff8a349f-911d-4108-a043-1138a694f4f6)
+
 ### 2.
+![Screenshot 2024-09-27 120640](https://github.com/user-attachments/assets/d67deb42-2f15-49a4-aa16-60a631e22638)
